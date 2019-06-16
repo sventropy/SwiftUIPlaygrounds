@@ -17,3 +17,12 @@ Resources used:
 - https://www.youtube.com/watch?v=VGJBLlfSN-Y&t=921s
 - https://github.com/SimpleBoilerplates/SwiftUI-Cheat-Sheet
 - https://developer.apple.com/tutorials/swiftui/creating-and-combining-views
+
+## Animation
+
+see `Animation.playground`
+
+Resources:
+
+- https://www.youtube.com/watch?v=S7oV0DvcSEM
+- https://www.youtube.com/watch?v=wBcLFEtZ8A4
