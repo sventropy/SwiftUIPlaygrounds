@@ -26,3 +26,9 @@ Resources:
 
 - https://www.youtube.com/watch?v=S7oV0DvcSEM
 - https://www.youtube.com/watch?v=wBcLFEtZ8A4
+
+## Custom Views & Binding
+
+see `ColorSlider.playground`
+
+Resources: <https://www.raywenderlich.com/3715234-swiftui-getting-started>
